@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sesethu",
+    "description": "LMS",
+    "due_date": "2024-04-08",
+    "priority": "low",
+    "completed": false,
+    "comment": "Struggling"
+  },
+  {
+    "name": "Bafana",
+    "description": "presentation",
+    "due_date": "2024-04-12",
+    "priority": "high",
+    "completed": true,
+    "comment": "please work on it urgently"
+  },
+  {
+    "name": "Sesethu",
+    "description": "presentation",
+    "due_date": "2024-04-08",
+    "priority": "medium",
+    "completed": false,
+    "comment": ""
+  }
+]
